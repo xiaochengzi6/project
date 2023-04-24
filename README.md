@@ -1,5 +1,14 @@
 **Hi, 本仓库将记录本人阅读过的源码、手写轮子、某技术的code demo、学习教程、学习的心得等**
 
+## 个人项目
+1. [博客](https://github.com/xiaochengzi6/Blog)) (文章70+)
+2. [ast解析](https://github.com/xiaochengzi6/simple-ast) (主要用于解析 es3 版本的 js 得到 ast 树)
+3. [webpack + react 脚手架](https://github.com/xiaochengzi6/Rx-pack)
+4. [文件树形图转文件路径并生成文件](https://github.com/xiaochengzi6/rx-file)
+5. [文件解析-还未处理完](https://github.com/xiaochengzi6/file-analyse)
+6. [在线简历编辑](https://github.com/xiaochengzi6/resume)
+
+## 额外的
 1. 手写的 [promise 实现](https://github.com/xiaochengzi6/Promise)
 2. [JavaScript](https://github.com/xiaochengzi6/javascript-demo) 复习和一些题目练习
 3. [quill源码调试](https://github.com/xiaochengzi6/quill-scource-code)
